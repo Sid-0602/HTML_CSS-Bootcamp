@@ -1,4 +1,4 @@
-# HTML_CSS-Bootcamp
+# HTML_CSS-WEB PAGES
 
 I have some of my personally Designed HTML and CSS webpages.
 These may inlclude from simple HTML Pages with Embeded images to full fledged HTML-CSS designed Web Pages.
